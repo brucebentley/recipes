@@ -1,0 +1,82 @@
+##################################################
+# ESSENTIALS
+##################################################
+
+#########################
+## CONFIG. + SECRET FILES
+#########################
+*.config
+*secret.js
+config/
+
+#########################
+## NODE.JS PACKAGES
+#########################
+bower_components/
+jspm_packages/
+node_modules/
+
+#########################
+## SYSTEM FILES
+#########################
+.DS_Store
+Thumbs.db
+
+
+##################################################
+# COMPILED OUTPUT FILES & DIRECTORIES
+##################################################
+*.css.map
+.sass-cache/
+/connect-webapp-ng2/
+/dist/
+/tmp/
+/typings/
+
+
+##################################################
+# LOGS & DATABASES
+##################################################
+*.log
+*.sql
+*.sqlite
+npm-debug.log
+testem.log
+logs/
+
+
+##################################################
+# TEST FILES
+##################################################
+/e2e/*.js
+/e2e/*.map
+/modules/rollup-test/dist/
+
+
+##################################################
+# MISCELLANEOUS
+##################################################
+*.launch
+*.swo
+.build-analytics
+.c9
+.classpath/
+.idea/
+.project/
+.sass-cache/
+.settings/
+.vscode
+/coverage/*
+/connect.lock
+/libpeerconnection.log
+pubspec.lock
+modules/.settings
+modules/.vscode
+
+#########################
+## IDE SETTINGS
+#########################
+*.sublime-project
+*.sublime-workspace
+.idea/*
+.vscode/*
