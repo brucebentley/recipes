@@ -6,8 +6,9 @@
 > &nbsp;
 
 <p align="center">
-<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png" alt="Guacamole"/>
+  <img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png" alt="Guacamole">
 </p>
+
 
 ## Ingredients &mdash;
 
@@ -30,7 +31,9 @@
 6. Fold in the remaining ingredients and mix well.
 7. Taste the guacamole _(over and over)_ and adjust seasoning if necessary.
 
-<p align="center">
-<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.gif" alt="Start-To-Finish"/>
-</p>
 
+<p align="center">
+  <br>
+  <img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.gif" alt="Start-To-Finish">
+  <br>
+</p>
