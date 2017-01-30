@@ -5,11 +5,11 @@
 > **A BATCH MADE IN HEAVEN** &mdash; [_Seven Steps To The Perfect Guacamole_ &rarr;](https://chipotle.com/guac-recipe)  
 > &nbsp;
 
+<p align="center">
+<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png" alt="Guacamole"/>
+</p>
 
-<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png" align="center" alt="Guacamole">
-
-
-### Ingredients
+## Ingredients &mdash;
 
 * 2 ripe Haas avocados
 * 2 tsp. lime juice
@@ -19,7 +19,7 @@
 * &frac14; tsp. Kosher salt
 
 
-### Directions
+## How To Make It &mdash;
 
 1. Chose the right avocado. It should feel squishy yet firm _(like the palm of your hand)_, and be  
    a nice dark green color on the outside.
@@ -30,6 +30,7 @@
 6. Fold in the remaining ingredients and mix well.
 7. Taste the guacamole _(over and over)_ and adjust seasoning if necessary.
 
-
-<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.png" align="center" alt="Start-To-Finish">
+<p align="center">
+<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.gif" alt="Start-To-Finish"/>
+</p>
 
