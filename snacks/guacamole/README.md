@@ -5,7 +5,8 @@
 > **A BATCH MADE IN HEAVEN** &mdash; [_Seven Steps To The Perfect Guacamole_ &rarr;](https://chipotle.com/guac-recipe)  
 > &nbsp;
 
-![alt text][screenshot]
+
+<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png" align="center" alt="Guacamole">
 
 
 ### Ingredients
@@ -30,8 +31,5 @@
 7. Taste the guacamole _(over and over)_ and adjust seasoning if necessary.
 
 
-![alt text][start-to-finish]
+<img src="https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.png" align="center" alt="Start-To-Finish">
 
-
-[screenshot]: https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/screenshot.png "Screenshot"
-[start-to-finish]: https://github.com/brucebentley/recipes/blob/master/snacks/guacamole/start-to-finish.gif "Start-To-Finished Recipe"
